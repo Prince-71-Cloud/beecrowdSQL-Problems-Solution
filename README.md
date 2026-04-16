@@ -1,4 +1,4 @@
-# beecrowd SQL Problems — Solutions & Formatting
+
 ```markdown
 # beecrowd SQL Problems — Problem statements
 

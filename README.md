@@ -1,12 +1,15 @@
+# Beecrowd Problems Solution
 
-# beecrowd Problems Writeups — Problem statements
+This repository contains solutions to Beecrowd problems, organized by programming language.
 
-This repository contains concise problem statement files for beecrowd SQL exercises. Each file is named by the problem number and includes the schema, sample tables, expected output, and the solution SQL.
+## JavaScript Problems
 
-Files:
-- `2606.md` — Categories
-- `2608.md` — Higher and Lower Price
-- `2609.md` — Products by Categories
-- `2610.md` — Average Value of Products
-- `2611.md` — Action Movies
-- `2613.md` — Cheap Movies
+*   [1120](javascript/1120.md)
+*   [1235](javascript/1235.md)
+
+## SQL Problems
+
+*   [2606](sql/2606.md)
+*   [2608](sql/2608.md)
+*   [2609](sql/2609.md)
+*   [2610](sql/2610.md)

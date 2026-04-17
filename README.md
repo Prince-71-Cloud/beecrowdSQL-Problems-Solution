@@ -1,5 +1,5 @@
 
-# beecrowd SQL Problems — Problem statements
+# beecrowd Problems Writeups — Problem statements
 
 This repository contains concise problem statement files for beecrowd SQL exercises. Each file is named by the problem number and includes the schema, sample tables, expected output, and the solution SQL.
 
